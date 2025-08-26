@@ -104,4 +104,3 @@ def train_model(prashanth_brain, X_train, y_train, criterion, optimizer, epochs=
 
 ## RESULT
 The neural network regression model was successfully trained and evaluated. The model demonstrated strong predictive performance on unseen data, with a low error rate.
-Include your result here
